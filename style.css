@@ -1,0 +1,38 @@
+/* body{
+    margin: 0%;
+    padding: 0%;
+} */
+
+h2{
+    text-align: center;
+}
+
+form{
+    margin-left: 500px;
+    padding: 1%;
+}
+form .name{
+    width: 250px;
+    display: grid;
+    grid-column: 2;
+}
+
+form .email{
+    display: flex   ;
+    width: 500px;
+}
+
+form .address{
+    width: 500px;
+    height: 100px;
+    display: grid;
+}
+
+form .date{
+    display: flex;
+}
+
+form .submit{
+    width: 100px;
+    
+}
